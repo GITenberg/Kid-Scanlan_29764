@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34140
     wikipedia: http://en.wikipedia.org/wiki/H._C._Witwer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29764#Kid-Scanlan
 gutenberg_issued: '2009-08-22'
 gutenberg_type: Text
 identifiers:
