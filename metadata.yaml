@@ -1,0 +1,30 @@
+_repo: Kid-Scanlan_29764
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Witwer, H. C. (Harry Charles)
+    alias: Witwer, Harry Charles
+    birthdate: 1890
+    deathdate: 1929
+    gutenberg_agent_id: '34140'
+    url: http://www.gutenberg.org/2009/agents/34140
+    wikipedia: http://en.wikipedia.org/wiki/H._C._Witwer
+description: ''
+gutenberg_issued: '2009-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29764'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcc 'PS'
+- !lcsh 'Motion picture industry -- Fiction'
+- !lcsh 'Boxers (Sports) -- Fiction'
+title: Kid Scanlan
+url: http://www.gutenberg.org/ebooks/29764
